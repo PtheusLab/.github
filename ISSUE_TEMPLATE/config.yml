@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Discussions
+    url: https://github.com/orgs/ptheuslab/discussions
+    about: Ask questions, share ideas, or start a conversation.
+  - name: Documentation
+    url: https://github.com/ptheuslab/.github/blob/main/SUPPORT.md
+    about: Check the support guide before opening an issue.
